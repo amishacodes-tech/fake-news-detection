@@ -71,7 +71,6 @@ The performance of the model was evaluated using standard classification metrics
 
 ## project output
 ![Project Output](Screenshot%202026-07-16%20201002.png)
-
 ## 📝 License
 This project is for educational purposes only.
 
