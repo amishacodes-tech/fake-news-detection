@@ -69,6 +69,8 @@ The performance of the model was evaluated using standard classification metrics
 
 *Note: The model demonstrates high reliability in distinguishing between real and fake news articles.*
 
+## project output
+![Project Output](Screenshot%202026-07-16%20201002.png) 
 ## 📝 License
 This project is for educational purposes only.
 
